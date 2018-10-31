@@ -1,0 +1,10 @@
+li {
+    font-size: 30px;
+    color: #fff;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: url(../images/img01.jpg) center;
+}
